@@ -1,0 +1,8 @@
+[
+  {
+    "nombre": "Playstation 5",
+    "precio": "1500USD",
+    "img": "https://arsonyb2c.vteximg.com.br/arquivos/menu-ps5.png?v=637300051469000000",
+    "id": 2
+  }
+]
