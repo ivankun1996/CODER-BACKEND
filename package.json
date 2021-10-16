@@ -1,0 +1,24 @@
+{
+  "name": "Node-Backend-Coderhouse-main",
+  "version": "1.0.0",
+  "description": "\u0000# CODER-BACKEND",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivankun1996/CODER-BACKEND.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivankun1996/CODER-BACKEND/issues"
+  },
+  "homepage": "https://github.com/ivankun1996/CODER-BACKEND#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.13"
+  }
+}

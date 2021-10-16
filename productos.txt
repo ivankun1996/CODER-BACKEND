@@ -1,8 +1,20 @@
 [
   {
+    "nombre": "Xbox One",
+    "precio": "1000",
+    "img": "https://compass-ssl.xbox.com/assets/97/69/9769090c-3d1d-4833-a935-5137fc7d6402.jpg?n=111_Content-Placement-0_Console-Controller_788x444.jpg",
+    "id": 1
+  },
+  {
     "nombre": "Playstation 5",
-    "precio": "1500USD",
+    "precio": "1500",
     "img": "https://arsonyb2c.vteximg.com.br/arquivos/menu-ps5.png?v=637300051469000000",
     "id": 2
+  },
+  {
+    "nombre": "Pc Gamer",
+    "precio": "2000",
+    "img": "https://http2.mlstatic.com/D_NQ_NP_777167-MLA46258832185_062021-O.webp",
+    "id": 3
   }
 ]
